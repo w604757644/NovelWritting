@@ -39,7 +39,7 @@ DEFAULT_SRC = os.path.join(BASE, "正文_重写版")
 TITLE_RE = re.compile(r'^#\s*第\d+章')
 # 批注：# 不在符号串里（前后都不是 @￥%&*!~），也不是章标题
 SYMS = '@￥%&*!~＠＃＄％＆'
-NOTE_RE = re.compile(r'(?<![%s])#(?![%s\s])' % (re.escape(SYMS), re.escape(SYMS)))
+NOTE_RE = re.compile(r'(?<![%s])#(?![%s])' % (re.escape(SYMS), re.escape(SYMS)))
 
 
 def chapter_no(fname):
