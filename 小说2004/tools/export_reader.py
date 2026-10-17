@@ -36,8 +36,8 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.join(HERE, '..')
-SRC = os.path.join(ROOT, '正文_新版')
-DST = os.path.join(ROOT, '正文_读者版')
+SRC = os.path.join(ROOT, '正文_重写版')
+DST = os.path.join(ROOT, '正文_读者版_重写版')
 
 DEFAULT_SEP = '······'          # 柳书 raw200 实测：200/200 章用这个
 SEC_RE = re.compile(r'^##\s*[一二三四五六七八九十]+\s*$', re.M)

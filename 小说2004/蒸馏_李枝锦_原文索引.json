@@ -1,0 +1,73 @@
+{
+  "source": "/Users/dabao/Desktop/WorkBuddy/写作/老子是癞蛤蟆 .txt",
+  "encoding": "gb18030",
+  "sha256": "cf2d666c9c5c3088a8c9d73492d7a3af230151586dcf3dc8efa15258bbfd9dbf",
+  "scope": "专题选读；12组场景中第8组包含两个片段，故列13段；另读15646—15648邀约、20013—20045关系片段。非全书通读。",
+  "passages": [
+    {
+      "name": "会谈",
+      "start_line": 6886,
+      "end_line": 6914
+    },
+    {
+      "name": "目标与机构匹配",
+      "start_line": 7102,
+      "end_line": 7118
+    },
+    {
+      "name": "资料与引荐",
+      "start_line": 7119,
+      "end_line": 7137
+    },
+    {
+      "name": "疯魔任务沟通",
+      "start_line": 9353,
+      "end_line": 9369
+    },
+    {
+      "name": "名动京华专业协调",
+      "start_line": 9398,
+      "end_line": 9414
+    },
+    {
+      "name": "小老虎合作反馈",
+      "start_line": 9490,
+      "end_line": 9524
+    },
+    {
+      "name": "一对活宝见面",
+      "start_line": 11995,
+      "end_line": 12062
+    },
+    {
+      "name": "日常与借款",
+      "start_line": 13012,
+      "end_line": 13016
+    },
+    {
+      "name": "独处与个人兴趣",
+      "start_line": 13040,
+      "end_line": 13078
+    },
+    {
+      "name": "小草和妻子",
+      "start_line": 13740,
+      "end_line": 13802
+    },
+    {
+      "name": "帮助机会与表白",
+      "start_line": 15680,
+      "end_line": 15724
+    },
+    {
+      "name": "态度",
+      "start_line": 19450,
+      "end_line": 19565
+    },
+    {
+      "name": "维护与叫停",
+      "start_line": 19639,
+      "end_line": 19735
+    }
+  ]
+}

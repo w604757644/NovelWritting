@@ -34,13 +34,15 @@ def num_of(fname):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--range', help='如 2-5')
-    ap.add_argument('--old', help='基线目录名（默认 正文_备份_老板审稿基线_1015）')
+    ap.add_argument('--old', required=True, help='需要比较的现存基线目录；旧基线已清理')
     a = ap.parse_args()
 
     old_dir = OLD_DIR
     if a.old:
         old_dir = a.old if os.path.isabs(a.old) else os.path.join(BASE, a.old)
 
+    if not os.path.isdir(old_dir):
+        ap.error(f"基线目录不存在：{old_dir}")
     files = sorted(os.listdir(old_dir), key=num_of)
     old_files = {f for f in files if f.endswith('.md')}
     new_files = {f for f in os.listdir(NEW_DIR) if f.endswith('.md')}

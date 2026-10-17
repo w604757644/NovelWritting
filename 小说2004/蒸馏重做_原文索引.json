@@ -1,0 +1,288 @@
+{
+  "date": "2026-10-17",
+  "method": "原文分阶段选读；27个章节，整章与局部场景结合；非全书逐字精读",
+  "sources": {
+    "柳": {
+      "path": "我真没想重生啊无删减txt下载.txt",
+      "encoding": "utf-8-sig",
+      "sha256": "9a1090b4ebfbaa287c6b81ffdb52ee8c6cf3774fa254e7dfa11b110a2c6b3211"
+    },
+    "唐": {
+      "path": "《重生之大涅槃》.txt",
+      "encoding": "gb18030",
+      "sha256": "a4cdd5dbcffaff2b042d553c39631d1951d897908cf7fa2cd0fce2d4ee4cb805"
+    }
+  },
+  "cards": [
+    {
+      "id": "L01",
+      "book": "柳",
+      "chapter": "6、包子铺里的骚话",
+      "volume": null,
+      "source_line": 680,
+      "source_end_line": 820,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "陈汉升的幽默有当场目的"
+    },
+    {
+      "id": "L02",
+      "book": "柳",
+      "chapter": "18、宝藏女孩（kasimking盟主的加更）",
+      "volume": null,
+      "source_line": 2437,
+      "source_end_line": 2561,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "人物出场各有正在做的事"
+    },
+    {
+      "id": "L03",
+      "book": "柳",
+      "chapter": "19、会说话的男生都是骗子",
+      "volume": null,
+      "source_line": 2562,
+      "source_end_line": 2694,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "配角动机可以直接交代"
+    },
+    {
+      "id": "L04",
+      "book": "柳",
+      "chapter": "113、修罗场（上）",
+      "volume": null,
+      "source_line": 16672,
+      "source_end_line": 16889,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "沈幼楚的温柔首先是她自己的生活"
+    },
+    {
+      "id": "L05",
+      "book": "柳",
+      "chapter": "114、修罗场（下）",
+      "volume": null,
+      "source_line": 16890,
+      "source_end_line": 17060,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "手抖的真实原因是修罗场风险"
+    },
+    {
+      "id": "L06",
+      "book": "柳",
+      "chapter": "144、研究沈幼楚",
+      "volume": null,
+      "source_line": 22087,
+      "source_end_line": 22257,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "女主离开男主后仍然可以被看见"
+    },
+    {
+      "id": "L07",
+      "book": "柳",
+      "chapter": "232、商妍妍是个好女孩（Momentos盟主的加更）",
+      "volume": null,
+      "source_line": 36696,
+      "source_end_line": 36848,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "相似的喜欢可以有不同的行动方式"
+    },
+    {
+      "id": "L08",
+      "book": "柳",
+      "chapter": "239、萧容鱼VS罗璇",
+      "volume": null,
+      "source_line": 37808,
+      "source_end_line": 37944,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "欣赏与控制欲并不相同"
+    },
+    {
+      "id": "L09",
+      "book": "柳",
+      "chapter": "262、沈幼楚抬头的这一天",
+      "volume": null,
+      "source_line": 41518,
+      "source_end_line": 41688,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "同一女主在不同关系里有不同状态"
+    },
+    {
+      "id": "L10",
+      "book": "柳",
+      "chapter": "390、儿子，你配不上萧容鱼（大章包爽求票）",
+      "volume": null,
+      "source_line": 65304,
+      "source_end_line": 65592,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "男配的缺点与爱可以同时成立"
+    },
+    {
+      "id": "L11",
+      "book": "柳",
+      "chapter": "445、铁骨铮铮王梓博",
+      "volume": null,
+      "source_line": 74870,
+      "source_end_line": 75060,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "同一场失意显出不同人的价值排序"
+    },
+    {
+      "id": "L12",
+      "book": "柳",
+      "chapter": "451、“破产”周记之修罗场",
+      "volume": null,
+      "source_line": 76038,
+      "source_end_line": 76220,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "萧容鱼在意自己是否被当作共同生活的人"
+    },
+    {
+      "id": "L13",
+      "book": "柳",
+      "chapter": "452、调兵遣将，应对修罗场",
+      "volume": null,
+      "source_line": 76221,
+      "source_end_line": 76421,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "修罗场先有各自合理的行动理由"
+    },
+    {
+      "id": "L14",
+      "book": "柳",
+      "chapter": "453、一个拥抱，修罗场变成了温情场",
+      "volume": null,
+      "source_line": 76422,
+      "source_end_line": 76636,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "公开动作的意义依赖前面的铺垫"
+    },
+    {
+      "id": "L15",
+      "book": "柳",
+      "chapter": "454、无敌是一种寂寞",
+      "volume": null,
+      "source_line": 76637,
+      "source_end_line": 76801,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "一次圆场之后压力仍然存在"
+    },
+    {
+      "id": "L16",
+      "book": "柳",
+      "chapter": "521、王梓博二次成熟的契机",
+      "volume": null,
+      "source_line": 89442,
+      "source_end_line": 89590,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "女主事业与男配成长可共用一个场所"
+    },
+    {
+      "id": "L17",
+      "book": "柳",
+      "chapter": "637、陈汉升，请你以后对沈幼楚礼貌一点",
+      "volume": null,
+      "source_line": 114033,
+      "source_end_line": 114245,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "女主的关系网能对男主形成约束"
+    },
+    {
+      "id": "L18",
+      "book": "柳",
+      "chapter": "692、边诗诗，我爱你！！！（6000字求票）",
+      "volume": null,
+      "source_line": 126114,
+      "source_end_line": 126576,
+      "scope": "章末约3300字的边诗诗与王梓博独立场景",
+      "claim": "男配的爱情需要属于他的解决方式"
+    },
+    {
+      "id": "T01",
+      "book": "唐",
+      "chapter": "第六章 约定",
+      "volume": "第一卷 时代飞梭",
+      "source_line": 220,
+      "source_end_line": 269,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "重生后的友情仍有摩擦和少年的好胜"
+    },
+    {
+      "id": "T02",
+      "book": "唐",
+      "chapter": "第九章 背后一对",
+      "volume": "第一卷 时代飞梭",
+      "source_line": 334,
+      "source_end_line": 384,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "唐妩的初次亲近来自多个细小判断"
+    },
+    {
+      "id": "T03",
+      "book": "唐",
+      "chapter": "第三十八章 进一步，牵手事件",
+      "volume": "第二卷 航向新旅途",
+      "source_line": 3118,
+      "source_end_line": 3166,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "安静的女孩也会主动回应亲近"
+    },
+    {
+      "id": "T04",
+      "book": "唐",
+      "chapter": "第十八章 持家",
+      "volume": "第三卷 去那遥远的地方",
+      "source_line": 5161,
+      "source_end_line": 5222,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "公开的优秀与私人的偏爱形成反差"
+    },
+    {
+      "id": "T05",
+      "book": "唐",
+      "chapter": "第五十八章 记住我的名字",
+      "volume": "第三卷 去那遥远的地方",
+      "source_line": 7216,
+      "source_end_line": 7267,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "家庭阻力通过家长自己的价值观成立"
+    },
+    {
+      "id": "T06",
+      "book": "唐",
+      "chapter": "第八十三章 我不想去",
+      "volume": "第四卷 八千里路云和月",
+      "source_line": 14240,
+      "source_end_line": 14303,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "反抗有此前顺从和珍惜的东西作支撑"
+    },
+    {
+      "id": "T07",
+      "book": "唐",
+      "chapter": "第三章 嗯，独立",
+      "volume": "第五卷 朝向更幸福的彼端",
+      "source_line": 17286,
+      "source_end_line": 17348,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "同一场家长相遇写出多个人的心思"
+    },
+    {
+      "id": "T08",
+      "book": "唐",
+      "chapter": "第一百四十九章 不走",
+      "volume": "第五卷 朝向更幸福的彼端",
+      "source_line": 25952,
+      "source_end_line": 26032,
+      "scope": "章节内相关场景；详见报告，不声明全文逐字精读",
+      "claim": "喜欢有主动留下对方的愿望"
+    },
+    {
+      "id": "T09",
+      "book": "唐",
+      "chapter": "第一百五十章 无人声援",
+      "volume": "第五卷 朝向更幸福的彼端",
+      "source_line": 26033,
+      "source_end_line": 26088,
+      "scope": "章前半共同生活回忆与独处状态；不以其后亲密描写作高中写作示范",
+      "claim": "独处状态与共同历史让亲密有积累"
+    }
+  ]
+}
