@@ -1,0 +1,261 @@
+{
+  "sources": [
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第1章-醒来还有她.md",
+      "sha256": "4183e3a3d47d3e355dc25b8687c8c1969ec61de55e3b7d75761c6e0095f9cc95",
+      "title": "第1章 醒来还有她"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第2章-先把日子过好.md",
+      "sha256": "d274b074fb878b8f2843a972086dd338c8675d028fb35b1a7388badbd3b33bb6",
+      "title": "第2章 先把日子过好"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第3章-把话说清楚.md",
+      "sha256": "c9f7fe92c6ad3f8bb1ac6f008e24eb03f836b4a5829a1b1199aa51807d217530",
+      "title": "第3章 把话说清楚"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第4章-一起走一段.md",
+      "sha256": "9f954dd995a523f64af3b09c3096a6cdfdbb6ca1839c567108a3baf115938b7c",
+      "title": "第4章 一起走一段"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第5章-先挣一顿饭.md",
+      "sha256": "65944b10635342518ecedd398094306e03867aee356db97f9e2b0bfbf2e1fa99",
+      "title": "第5章 先挣一顿饭"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第6章-你还想约谁.md",
+      "sha256": "433a69efc99c9f2cdf6e16a92416a1c37c093294e75022f9ca3987e16aa77e46",
+      "title": "第6章 你还想约谁"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第7章-只买一本.md",
+      "sha256": "cba4ab7a15a5feeb7931365f19438bed4acfc363e841f911f3d579e36196c424",
+      "title": "第7章 只买一本"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第8章-这回跟我一边.md",
+      "sha256": "f39a36635decd31f2113c34484f934b9529e5822960ac70e0309229f95537186",
+      "title": "第8章 这回跟我一边"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第9章-得给我留半天.md",
+      "sha256": "66b99d8574ce2fcc2aefed3ddf74e6ea5c2d35568f5bcb60c2f320c714d006d5",
+      "title": "第9章 得给我留半天"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第10章-这遍是弹给你的.md",
+      "sha256": "2cfa73849018f1b467955962c5217c27e2474477d2c2607f48450e7a40801273",
+      "title": "第10章 这遍是弹给你的"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第11章-下次什么时候来.md",
+      "sha256": "b25b7a03411902496933cafeefd3705a640eaee89a7206e2aa23cc3f00c75e7a",
+      "title": "第11章 下次什么时候来"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第12章-今天听我的.md",
+      "sha256": "16f4b9b16339db31f74a95992b540b6442285bf6b2f10385ea9ab466ee186de0",
+      "title": "第12章 今天听我的"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第13章-也说点你的事.md",
+      "sha256": "ee6c8e3ba4d5438ee868a4e264097f24ea6c42ebe3be5ed7f5df55b9ba6d87f7",
+      "title": "第13章 也说点你的事"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第14章-鸡腿不能白加.md",
+      "sha256": "bb3361bc7be31fdeef1c761ba686761954ea172f21f09553c31a9f4486510c56",
+      "title": "第14章 鸡腿不能白加"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第15章-这次往前走.md",
+      "sha256": "31251c09a117ac23d32d14434d2aed5d30eb2fa405c8724f88b86eeca8259c43",
+      "title": "第15章 这次往前走"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第16章-先坐第一排.md",
+      "sha256": "0e714a23e44672ea5d3a3f06c926351de9dbf6956b74552ff7775c03aed519f8",
+      "title": "第16章 先坐第一排"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第17章-我看见你了.md",
+      "sha256": "823f2c7f9cc90a0dc6f4f52570940d7b75760e469cd39088055d8218e592f121",
+      "title": "第17章 我看见你了"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第18章-这句不是玩笑.md",
+      "sha256": "bef884edfaf2e5cd8be8764e8d144ccd11891c221c9d998d1b018787614fa388",
+      "title": "第18章 这句不是玩笑"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第19章-这回不用你替我说.md",
+      "sha256": "7e5e8074d7df70a904573bbfbef02955a604ec7164cc1c8c666967f247161a06",
+      "title": "第19章 这回不用你替我说"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第20章-小老板也得算账.md",
+      "sha256": "c0221c43fa6cee0964c08a97f154881710f4fb7166a3443fc45a4d1edcae9746",
+      "title": "第20章 小老板也得算账"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第21章-有话当面问.md",
+      "sha256": "b51b0beb3e2887fc09fd7e0d90de7f9272a4de3d574b4c9d6ef1057e0f9dccd7",
+      "title": "第21章 有话当面问"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第22章-这回我听明白了.md",
+      "sha256": "566d73af2f7717cee31f24e0deac97e37c8527c45af14a83799586f804f5a38b",
+      "title": "第22章 这回我听明白了"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第23章-这张我自己留.md",
+      "sha256": "f3d56e4eaeb65e590407b8c4bb1c9d1f6cbf0f7043ad2fcda3c537d09df0c5b8",
+      "title": "第23章 这张我自己留"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第24章-不用每次都懂事.md",
+      "sha256": "2989493e2d8c33d6624ac2935a58bcf84085d9f163f8c5a9e08f918556acc9cb",
+      "title": "第24章 不用每次都懂事"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第25章-别把花瓶当观众.md",
+      "sha256": "ea034711ca3d9aaeecbfd0c4e83ab42cc512d00e84d019bd16796a7bb80de5c5",
+      "title": "第25章 别把花瓶当观众"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第26章-顺路也得用心.md",
+      "sha256": "b7974b04bdc857e58d8d981e04a1c0a5a296129b85be74bb4aabdc7ce40487b2",
+      "title": "第26章 顺路也得用心"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第27章-周经理自己谈.md",
+      "sha256": "2553d347d600f6ea438d125d27e0297642880adb3d75fef28753053b134f235c",
+      "title": "第27章 周经理自己谈"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第28章-你也来我家吧.md",
+      "sha256": "040ef8bad2f7741e2ad9ce6909880519c876e510f06f8632ca3b987b0c64de6b",
+      "title": "第28章 你也来我家吧"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第29章-高三也得有点乐子.md",
+      "sha256": "758f314b39c58ecd252be819d1201bf867caccc60d4b4c35d317f289d9ac4898",
+      "title": "第29章 高三也得有点乐子"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第30章-跑慢一点也算数.md",
+      "sha256": "4e22d288f15ab22a7383df04087c49b548ef7df7ea5f31dc4466b1a7a63329bd",
+      "title": "第30章 跑慢一点也算数"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第31章-这次换我等你.md",
+      "sha256": "de130c66cf8a62593ce3d63a5cdd780dd02c26aac4e82de1afe9ebe4460824be",
+      "title": "第31章 这次换我等你"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第32章-先把你的名字签上.md",
+      "sha256": "5406e1278fd97a28551a5506c4d43a6c9c0461055999e946f4de4e928145f26e",
+      "title": "第32章 先把你的名字签上"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第33章-班长也有不会的题.md",
+      "sha256": "0669469adc894278ead8b54163e2657e848fb07418fbb338a7559944ddbd9cb9",
+      "title": "第33章 班长也有不会的题"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第34章-今天不讲题.md",
+      "sha256": "637b7ff9655573d7a30f0e728b015acc36a2841d53fd1e95c39f1f40dd62f84f",
+      "title": "第34章 今天不讲题"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第35章-这钱不是白挣的.md",
+      "sha256": "4b4eb635a643ea9e751909eeec6c7ca7ec76a97f2714cac43341d6bf0c93c44f",
+      "title": "第35章 这钱不是白挣的"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第36章-我站你这边.md",
+      "sha256": "8257f014bfa4116ecedb5d25c0b740f9aa5671e88922c42f7db20dfb4f6bd9db",
+      "title": "第36章 我站你这边"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第37章-新年第一件好事.md",
+      "sha256": "ffdbf4bffc8d36050b633558104390f0da44a4659bba0b10c5d87b9ffc60f8de",
+      "title": "第37章 新年第一件好事"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第38章-这回我爸请客.md",
+      "sha256": "f13d204810ad7ff178727175baaed20a5c26dcf77b3a06f423843dcb055e170d",
+      "title": "第38章 这回我爸请客"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第39章-给你留一句过年好.md",
+      "sha256": "f3dbfdada1781081e00b824e4be231260d85ea7b67ebad4451d36c17d36c8d84",
+      "title": "第39章 给你留一句过年好"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第40章-叔叔，我不是来修电脑的.md",
+      "sha256": "2fbd5f128242652a75e9a6de6e4b00ecb0876085071ab029d5f69a07395f186f",
+      "title": "第40章 叔叔，我不是来修电脑的"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第41章-还来得及一起去.md",
+      "sha256": "242f1856be02c668fcec38bb0a12eb10deeaadcb3ed3e9e511e3ad8b16a6cb82",
+      "title": "第41章 还来得及一起去"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第42章-这回不许怪场地.md",
+      "sha256": "44fb1aab899c227a86f928c374f9c11ea16b002b2e29bf4846a0e4a9397d80d8",
+      "title": "第42章 这回不许怪场地"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第43章-再多拍一张.md",
+      "sha256": "634b176d8214d3e87151d37671f15cd202b9171c6bff37b2b6af63527b430807",
+      "title": "第43章 再多拍一张"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第44章-到了给我打个电话.md",
+      "sha256": "f9475d5597e89ff7605f6cdd455f7154eab5afd002d360d739f851176ed3de5f",
+      "title": "第44章 到了给我打个电话"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第45章-这回是我先找你.md",
+      "sha256": "e0f6f1678ca5ab11ff534e98b6fa10034c19bb224a23f441648e808e5d27bde1",
+      "title": "第45章 这回是我先找你"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第46章-今天先陪你走一段.md",
+      "sha256": "2991f1666c357fb8a9e1f96c3c8c209e5a8f011087a817943bd7bf73c336b746",
+      "title": "第46章 今天先陪你走一段"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第47章-这一次，走进去.md",
+      "sha256": "a97cea78114dfad4c1a954ccce38a14e231d6b55b77e7bf5a7790ad36ca8cfd2",
+      "title": "第47章 这一次，走进去"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第48章-这回不用赶着回去.md",
+      "sha256": "6b0776d4e00a900032ce0ba81ddf466cfcfdb419464fd97e9b82df014915a7e2",
+      "title": "第48章 这回不用赶着回去"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第49章-这回，名字都在上面.md",
+      "sha256": "7573b46c8c23ea47fcceeb3f75b910542f3b4eeae11af66a401df1b6d6f6004f",
+      "title": "第49章 这回，名字都在上面"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第50章-走的时候，把窗关好.md",
+      "sha256": "0c8d94322753d3e8d1489c168e8710dcde08c9636ed03067e9e0f1093c5fcbda",
+      "title": "第50章 走的时候，把窗关好"
+    },
+    {
+      "file": "/Users/dabao/Desktop/WorkBuddy/写作/小说2004/正文_重写版/第51章-一起往前走.md",
+      "sha256": "a39ceaefa5f3b99a2eef5b0cc59d41e5a22fe2173247f429e79ceaf48b418ac5",
+      "title": "第51章 一起往前走"
+    }
+  ],
+  "omitted_notes": [],
+  "pages": 336
+}
